@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/orientable_vertical",
+  "textures": {
+    "front": "chess:block/st_cross_one_rail",
+    "side": "chess:block/template_j"
+  }
+}
