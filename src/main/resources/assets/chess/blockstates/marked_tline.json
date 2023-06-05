@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "chess:block/marked_tline"
+    },
+    "facing=west": {
+      "model": "chess:block/marked_tline",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "chess:block/marked_tline",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "chess:block/marked_tline",
+      "y": 270
+    }
+  }
+}

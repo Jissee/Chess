@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "chess:block/one_i_cross"
+    },
+    "facing=west": {
+      "model": "chess:block/one_i_cross",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "chess:block/one_i_cross",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "chess:block/one_i_cross",
+      "y": 270
+    }
+  }
+}

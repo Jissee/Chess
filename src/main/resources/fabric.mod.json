@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "modid",
+  "version": "${version}",
+
+  "name": "Chinese Chess",
+  "description": "",
+  "authors": [
+    "jissee"
+  ],
+  "contact": {
+  },
+
+  "license": "All Right Reserved",
+  "icon": "",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "me.jissee.chess.Chess"
+    ]
+  },
+  "mixins": [
+    "modid.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.11",
+    "fabric-api": "*",
+    "minecraft": "~1.19.3",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
