@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:saddle"
+    },
+    {
+      "item": "chess:btuanzhang"
+    }
+  ],
+  "result": {
+    "item": "chess:blvzhang",
+    "count": 3
+  }
+}

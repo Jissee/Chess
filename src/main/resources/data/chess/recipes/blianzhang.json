@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:copper_ingot"
+    },
+    {
+      "item": "chess:bpaizhang"
+    }
+  ],
+  "result": {
+    "item": "chess:blianzhang",
+    "count": 4
+  }
+}
