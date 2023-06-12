@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "chess:block/st_v_cross_t_rail"
+  }
+}

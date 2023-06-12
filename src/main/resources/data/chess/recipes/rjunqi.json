@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "minecraft:signs"
+    },
+    {
+      "item": "chess:rsiling"
+    }
+  ],
+  "result": {
+    "item": "chess:rjunqi",
+    "count": 1
+  }
+}

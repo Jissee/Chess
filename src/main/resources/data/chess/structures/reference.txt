@@ -1,0 +1,2 @@
+chinese_chess_board = cncb
+military_chess_board = mtcb

@@ -1,0 +1,7 @@
+{
+  "parent": "chess:block/facing_north",
+  "textures":{
+    "effective": "chess:block/rsiling",
+    "ineffective": "chess:block/template_j"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "chess:block/template",
+  "textures":{
+    "texture": "chess:block/blianzhang"
+  }
+}

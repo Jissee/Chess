@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:wooden_pickaxe"
+    },
+    {
+      "item": "chess:rgongbing"
+    }
+  ],
+  "result": {
+    "item": "chess:rpaizhang",
+    "count": 4
+  }
+}

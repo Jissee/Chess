@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "chess:block/st_stbase"
+    },
+    "facing=west": {
+      "model": "chess:block/st_stbase",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "chess:block/st_stbase",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "chess:block/st_stbase",
+      "y": 270
+    }
+  }
+}

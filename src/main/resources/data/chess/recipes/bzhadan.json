@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:minecart"
+    },
+    {
+      "item": "chess:bdilei"
+    }
+  ],
+  "result": {
+    "item": "chess:bzhadan",
+    "count": 2
+  }
+}

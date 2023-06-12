@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/orientable_vertical",
+  "textures": {
+    "front": "chess:block/right_i_tline",
+    "side": "chess:block/template"
+  }
+}
