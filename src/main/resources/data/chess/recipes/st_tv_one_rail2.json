@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "|#|",
+    "///"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:iron_nugget"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    },
+    "|": {
+      "item": "minecraft:rail"
+    }
+  },
+  "result": {
+    "item": "chess:st_tv_one_rail"
+  }
+}

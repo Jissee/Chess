@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "bbb",
+    "b-b",
+    "bbb"
+  ],
+  "key": {
+    "b": {
+      "tag": "chess:blackpiece"
+    },
+    "-": {
+      "item": "minecraft:white_dye"
+    }
+  },
+  "result": {
+    "item": "chess:whitepiece",
+    "count": 8
+  }
+}
