@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "L",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "chess:tline"
+    },
+    "L": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "chess:left_i_tline",
+    "count": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "variants": {
+    "facedat=up,facing=south": {
+      "model": "chess:block/bhorse"
+    },
+    "facedat=up,facing=west": {
+      "model": "chess:block/bhorse",
+      "y": 90
+    },
+    "facedat=up,facing=north": {
+      "model": "chess:block/bhorse",
+      "y": 180
+    },
+    "facedat=up,facing=east": {
+      "model": "chess:block/bhorse",
+      "y": 270
+    },
+    "facedat=down,facing=south": {
+      "model": "chess:block/template"
+    },
+    "facedat=down,facing=west": {
+      "model": "chess:block/template",
+      "y": 90
+    },
+    "facedat=down,facing=north": {
+      "model": "chess:block/template",
+      "y": 180
+    },
+    "facedat=down,facing=east": {
+      "model": "chess:block/template",
+      "y": 270
+    }
+
+  }
+}

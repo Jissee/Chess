@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "chess:template"
+    },
+    {
+      "item": "minecraft:iron_horse_armor"
+    }
+  ],
+  "result": {
+    "item": "chess:bhorse",
+    "count": 1
+  }
+}

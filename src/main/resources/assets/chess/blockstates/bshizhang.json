@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "facedat=up,facing=south": {
+      "model": "chess:block/bshizhang_up",
+      "y": 180
+    },
+    "facedat=up,facing=west": {
+      "model": "chess:block/bshizhang_up",
+      "y": 270
+    },
+    "facedat=up,facing=north": {
+      "model": "chess:block/bshizhang_up"
+    },
+    "facedat=up,facing=east": {
+      "model": "chess:block/bshizhang_up",
+      "y": 90
+    },
+    "facedat=down,facing=south": {
+      "model": "chess:block/bshizhang_down"
+    },
+    "facedat=down,facing=west": {
+      "model": "chess:block/bshizhang_down",
+      "y": 90
+    },
+    "facedat=down,facing=north": {
+      "model": "chess:block/bshizhang_down",
+      "y": 180
+    },
+    "facedat=down,facing=east": {
+      "model": "chess:block/bshizhang_down",
+      "y": 270
+    }
+  }
+}
